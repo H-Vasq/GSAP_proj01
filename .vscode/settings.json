@@ -1,0 +1,16 @@
+{
+    "vsintellicode.modify.editor.suggestSelection": "disabled",
+    "vsintellicode.typescript.completionsEnabled": false,
+    "editor.hover.above": false,
+    "editor.hover.enabled": false,
+    "editor.hover.sticky": false,
+    "accessibility.verbosity.hover": false,
+    "css.hover.documentation": false,
+    "css.hover.references": false,
+    "html.hover.documentation": false,
+    "html.hover.references": false,
+    "accessibility.verbosity.inlineCompletions": false,
+    "css.completion.completePropertyWithSemicolon": false,
+    "css.completion.triggerPropertyValueCompletion": false,
+    "css.format.enable": false
+}
